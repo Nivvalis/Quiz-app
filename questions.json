@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "9",
+            "D": "Error"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which of these is a mutable data type in Python?",
+        "options": {
+            "A": "Tuple",
+            "B": "String",
+            "C": "List",
+            "D": "Int"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What keyword is used to define a function in Python?",
+        "options": {
+            "A": "func",
+            "B": "define",
+            "C": "function",
+            "D": "def"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "options": {
+            "A": "//",
+            "B": "/* */",
+            "C": "#",
+            "D": "--"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of: print('5' + '3')?",
+        "options": {
+            "A": "8",
+            "B": "53",
+            "C": "Error",
+            "D": "15"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which function is used to get the length of a list?",
+        "options": {
+            "A": "count()",
+            "B": "len()",
+            "C": "size()",
+            "D": "length()"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "How do you start a for loop in Python?",
+        "options": {
+            "A": "loop i in range(5)",
+            "B": "for i to 5",
+            "C": "for i in range(5):",
+            "D": "foreach i in 5"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of print(type(3.14))?",
+        "options": {
+            "A": "<class 'int'>",
+            "B": "<class 'double'>",
+            "C": "<class 'float'>",
+            "D": "<class 'decimal'>"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "How do you create a dictionary in Python?",
+        "options": {
+            "A": "[]",
+            "B": "()",
+            "C": "{}",
+            "D": "<>"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following raises a syntax error?",
+        "options": {
+            "A": "x = 5",
+            "B": "if True:",
+            "C": "print('Hello'",
+            "D": "for i in [1, 2, 3]:"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "How do you open a file in read mode?",
+        "options": {
+            "A": "open('file.txt', 'r')",
+            "B": "read('file.txt')",
+            "C": "file.read('file.txt')",
+            "D": "open('file.txt')"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of bool(0)?",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "0",
+            "D": "None"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions?",
+        "options": {
+            "A": "throw",
+            "B": "catch",
+            "C": "try",
+            "D": "except"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What does the 'pass' statement do?",
+        "options": {
+            "A": "Skips iteration",
+            "B": "Stops a loop",
+            "C": "Does nothing",
+            "D": "Throws error"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which module is used to work with dates and times?",
+        "options": {
+            "A": "datetime",
+            "B": "dateutils",
+            "C": "calendar",
+            "D": "timeutils"
+        },
+        "answer": "A"
+    }
+]
